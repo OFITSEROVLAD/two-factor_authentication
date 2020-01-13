@@ -42,4 +42,4 @@ Graphics CS MSU project
 *Кросс-валидация
 
 
-*По любым вопросам: ///ofitserovlad@gmail.com///*
+*По любым вопросам: /ofitserovlad@gmail.com/*

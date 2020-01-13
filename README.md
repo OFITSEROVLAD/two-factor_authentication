@@ -27,7 +27,7 @@ Graphics CS MSU project
 - База данных лиц - “faces”
 - Обученная модель распознавания жеста - “SVC”
 
-#### Пример работы OpenPose
+#### Пример работы OpenPose (Желтые точки на руке) 
 <img width="393" alt="Снимок экрана 2020-01-07 в 14 40 35" src="https://user-images.githubusercontent.com/56963957/72260423-e0b5fd80-3623-11ea-9e87-fc62056545ac.png">
 
 

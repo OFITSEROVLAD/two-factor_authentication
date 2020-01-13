@@ -40,6 +40,6 @@ Graphics CS MSU project
 ## Решение проблемы времени работы системы
 <img width="862" alt="Снимок экрана 2020-01-13 в 16 27 10" src="https://user-images.githubusercontent.com/56963957/72260355-b7956d00-3623-11ea-8611-341b4b2bcbe4.png">
 *Кросс-валидация
-
+# ----
 
 *По любым вопросам: [ofitserovlad@gmail.com]( )*
